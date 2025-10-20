@@ -1,4 +1,4 @@
-## 👋 Hello World! Me chamo Vitória Barbosa 
+## 👋 Hello World! Me chamo Vitória
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Piauí (IFPI)   
 👾 Em loop infinito de aprendizado e paixão por tecnologia  
@@ -27,7 +27,7 @@
 ## ✨ Vamos nos conectar! 
 
 <p align="center">
-  <a href="www.linkedin.com/in/vitória-barbosa-75b340288" target="_blank">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-barbosa-75b340288/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vitoriabf2006@gmail.com" target="_blank">
