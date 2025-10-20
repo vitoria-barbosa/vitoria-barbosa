@@ -1,8 +1,8 @@
 ## 👋 Hello World! Me chamo Vitória Barbosa 
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Piauí (IFPI)   
-👾 Em loop infinito de aprendizado e paixão por tecnologia 
-💌 Amo livros, jardinagem, música e jogos de cartas🪴🌝 
+👾 Em loop infinito de aprendizado e paixão por tecnologia  
+💌 Amo livros, jardinagem, música e jogos de cartas🪴🌝  
 
 
 ## 📚 Atualmente aprendendo
@@ -19,8 +19,8 @@
 ## 📊 Estatísticas do GitHub 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitoria-barbosa&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-barbosa&layout=compact&hide_border=true&title_color=FF69B4&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitoria-barbosa&theme=transparent&show_icons=true&hide_border=true&layout=compact"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-barbosa&layout=compact&hide_border=true&theme=transparent"/>
 </div>
 
 
